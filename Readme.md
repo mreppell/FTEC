@@ -12,7 +12,7 @@ Reppell M, Boehnke M, Zöllner S. (2013). The impact of accelerating faster than
 
 ##Installation and Compilation
 
-FTEC requires header files from both the Boost and TCLAP libraries to compile and run. There are 3 available source code downloads, differing in which of these library files they contain, so that a user can select the most appropriate download for their system. If a user(')s system already includes a library and they download a version of FTEC that includes the library's header files the program should compile without problem, so if there is any uncertainty download the larger source file.
+FTEC requires header files from both the Boost and TCLAP libraries to compile and run. There are 3 available source code downloads, differing in which of these library files they contain, so that a user can select the most appropriate download for their system. If a user\'s system already includes a library and they download a version of FTEC that includes the library\'s header files the program should compile without problem, so if there is any uncertainty download the larger source file.
 
 ###Linux
 1. Place downloaded source file in directory where you would like to install FTEC
